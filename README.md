@@ -1,13 +1,39 @@
-# Project Euler
+# Project-Euler
 
-## Introduction
+## About Project Euler
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper magna sed urna dignissim, ac tincidunt elit sagittis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque nulla lacus, pharetra eget rhoncus vel, euismod vel erat. Mauris dictum risus mi, eu iaculis sem congue quis. Nunc nec libero finibus, ullamcorper mi ut, ultrices odio. Suspendisse malesuada, eros vel ullamcorper euismod, tellus ipsum molestie sapien, id semper neque tortor non turpis. Aliquam a diam id purus porta facilisis. Nulla ac lectus dui. Mauris sodales velit quis consectetur finibus.
+**[Project Euler Website](https://www.projecteuler.net/about)**
 
-Cras auctor justo sed mauris varius, auctor sodales quam tempus. Aliquam varius in dolor ac elementum. Etiam accumsan arcu ligula, quis luctus nisi vestibulum vitae. Maecenas maximus tempor iaculis. Nunc iaculis vulputate auctor. Sed arcu tortor, blandit vel condimentum at, pulvinar sit amet nisl. Nunc consequat bibendum ante eget elementum. Donec a metus malesuada, placerat metus ac, molestie enim.
+### What is Project Euler?
+
+Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
+
+The motivation for starting Project Euler, and its continuation, is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
+
+### Who are the problems aimed at?
+
+The intended audience include students for whom the basic curriculum is not feeding their hunger to learn, adults whose background was not primarily mathematics but had an interest in things mathematical, and professionals who want to keep their problem solving and mathematics on the cutting edge.
+
+### Can anyone solve the problems?
+
+The problems range in difficulty and for many the experience is inductive chain learning. That is, by solving one problem it will expose you to a new concept that allows you to undertake a previously inaccessible problem. So the determined participant will slowly but surely work his/her way through every problem.
+
+### What next?
+
+In order to track your progress it is necessary to setup an account and have Cookies enabled. If you already have an account then Login, otherwise please Register – it's completely free!
+
+However, as the problems are challenging then you may wish to view the Problems before registering.
 
 ## Contents
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper magna sed urna dignissim, ac tincidunt elit sagittis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque nulla lacus, pharetra eget rhoncus vel, euismod vel erat. Mauris dictum risus mi, eu iaculis sem congue quis. Nunc nec libero finibus, ullamcorper mi ut, ultrices odio. Suspendisse malesuada, eros vel ullamcorper euismod, tellus ipsum molestie sapien, id semper neque tortor non turpis. Aliquam a diam id purus porta facilisis. Nulla ac lectus dui. Mauris sodales velit quis consectetur finibus.
+### Common-Functions
 
-Cras auctor justo sed mauris varius, auctor sodales quam tempus. Aliquam varius in dolor ac elementum. Etiam accumsan arcu ligula, quis luctus nisi vestibulum vitae. Maecenas maximus tempor iaculis. Nunc iaculis vulputate auctor. Sed arcu tortor, blandit vel condimentum at, pulvinar sit amet nisl. Nunc consequat bibendum ante eget elementum. Donec a metus malesuada, placerat metus ac, molestie enim.
+A directory to house common functions that are created in order to solve the problems. 
+
+### Images
+
+Sometimes Markdown isn't able to appropiately convey the problem text. This folder houses images referenced in the Jupyter notebook solutions.
+
+### Solutions
+
+Each problem is answered separately with its own Jupyter notebook. The problem text is copied verbatim from the website with images used where necessary. The answer has a description explaining the logic of solving the problem as well as the code snippet used to generate the answer.

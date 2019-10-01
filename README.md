@@ -32,7 +32,7 @@ A directory to house common functions that are created in order to solve the pro
 
 ### Images
 
-Sometimes Markdown isn't able to appropiately convey the problem text. This folder houses images referenced in the Jupyter notebook solutions.
+Sometimes markdown isn't able to appropiately convey the problem text. This folder houses images referenced in the Jupyter notebook solutions.
 
 ### Solutions
 
